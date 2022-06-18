@@ -1,0 +1,8 @@
+*env/
+*node_modules/
+./frontend-react/node_modules/
+.history
+./history
+.vscode
+*.txt
+.DS_store
